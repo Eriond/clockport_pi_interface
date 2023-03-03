@@ -8,6 +8,6 @@ Write the programming file cp_pi_if.jed. For a -10 speed grade CPLD you use:
 
 ...and likewise for a -5 speedgrade you use:
 
-./openFPGALoader -c libgpiod --pins 10:8:11:9 -f cp_pi_if-10.jed
+./openFPGALoader -c libgpiod --pins 10:8:11:9 -f cp_pi_if-5.jed
 
 There is no jed file prepared for the -7 speed. You may try either of the above, and if they don't work - PM me, and I'll see what I can muster up :)
