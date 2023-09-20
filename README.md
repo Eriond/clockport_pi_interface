@@ -3,15 +3,13 @@
 This is a fork from Niklas Ekström where an alternate PCB layout has been made to enable an even smaller and more low-profile end product.
 The fork contains PCB files in KiCAD 6.99 format, and an updated pin constraint file (.ucf) to accomodate for the new PCB.
 
-|  |  |
-|-------------|-------------|
-| ![PCB](Docs/BarePCB.jpg?raw=true) | ![PCB /w components](Docs/WithCmpnt.jpg?raw=true) |
-| ![Mounted with RPi Zero 2W](Docs/Top.jpg?raw=true)  | ![Bottom side](Docs/Bottom.jpg?raw=true) |
-| ![Running terminal in AmigaOS](Docs/amirc.jpg?raw=true) | ![Low profile installation](Docs/InAnA1200.jpg?raw=true) |
+![PCB](Docs/BarePCB.jpg?raw=true)
+![PCB /w components](Docs/WithCmpnt.jpg?raw=true)
+![Low profile installation](Docs/InAnA1200.jpg?raw=true)
 
 ## Details about how the interface works
 
-For further details about this excellent project, please visit this forks origin site @ [niklasekstrom/clockport_pi_interface](https://github.com/niklasekstrom/clockport_pi_interface)
+For further details about this excellent project, please visit this forks origin site @ [niklasekstrom/clockport_pi_interface](https://github.com/niklasekstrom/clockport_pi_interface)<br>
 You will find a schematic PDF for this forked PCB in the Hardware folder.
 
 ## Bill of materials
